@@ -1,18 +1,13 @@
 .earth {
-  height: 300px;
+  height: 400px;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
   margin: auto;
-  align-self: top
   overflow: hidden;
-<<<<<<< HEAD
-  border-radius: 0%;
+  border-radius: 50%;
   align-self: top;
-=======
-  border-radius: 1%;
->>>>>>> 8a300a4b1041dfdbe27efd01c1493928ead5ac9e
   box-shadow: 0 0 20px 20px #000 inset, 0 0 20px 2px #000;
 }
 
